@@ -1,5 +1,5 @@
 .body_backgorund {
-  background-image: url("https://i.postimg.cc/63cjmfvH/bg1.jpg");
+  background-image: url("bg1.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -9,7 +9,7 @@ body{
 h1
 {
     color: red; 
-    font-size: 20px;
+    font-size: 80px;
 }
 #myCanvas
 {
